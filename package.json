@@ -1,0 +1,11 @@
+{
+  "name": "coding-exercises-master",
+  "version": "1.0.0",
+  "description": "StayNTouch Coding Exercises =============================",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon spec/magic_square_spec.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
